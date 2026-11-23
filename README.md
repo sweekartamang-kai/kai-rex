@@ -2,7 +2,7 @@
 
 A browser-based, multi-layer industrial monitoring and automation control panel. Pure HTML, CSS and JavaScript: no build step, no dependencies, no hardware.
 
-**Live demo:** https://YOUR-USERNAME.github.io/kai-rex/
+**Live demo:** https://SWEEKAR.github.io/kai-rex/
 
 ## Screens
 1. Main Dashboard: live gauges, KPIs, plant health, alarms
